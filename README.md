@@ -225,4 +225,12 @@ Evaluation Metrics
 - All preprocessed features are saved as `.npy` files for efficient loading
 
 
+# Dataset Link : 
+
+1. https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+2. https://www.kaggle.com/datasets/thisisjibon/banglabeats3sec
+
+   
+
+
 
